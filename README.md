@@ -1,1 +1,2 @@
-# DS-Lab-Codes
+# DS-LAB
+DS Lab codes
