@@ -5,6 +5,7 @@
     -> To display the elements of the linear array
 */
 
+/hello polu
 #include<iostream>
 using namespace std;
 int insert_ele(int arr[],int n,int index,int value)
