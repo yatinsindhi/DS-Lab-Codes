@@ -37,11 +37,11 @@ int search_ele(int arr[],int n,int ele)
 	}
 	return 0;
 }
-void display(int arr[],int n)
+void display(int arr2[],int n)
 {
 	for(int i=0;i<n;i++)
 	{
-		cout<<arr[i]<<" ";
+		cout<<arr2[i]<<" ";
 	}
 	cout<<endl;
 }
